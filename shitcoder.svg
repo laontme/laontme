@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="245.11566"
-   height="31.882383"
-   viewBox="0 0 64.853516 8.4355475"
+   width="301.61636"
+   height="39.233315"
+   viewBox="0 0 79.80266 10.380481"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -298,9 +298,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="173.42691"
-     inkscape:cy="-38.598076"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-16.28877"
+     inkscape:cy="32.474834"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -331,7 +331,7 @@
      inkscape:label="Слой 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-33.513672,-31.863281)">
+     transform="translate(-33.513775,-29.918636)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0.632354px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.21708;stroke-miterlimit:4;stroke-dasharray:none"
@@ -347,7 +347,8 @@
     <g
        aria-label="𝙎𝙃𝙄𝙏𝘾𝙊𝘿𝙀𝙍"
        id="text870-4"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0.632354px;word-spacing:0px;fill:url(#linearGradient1293);fill-opacity:1;stroke:none;stroke-width:1.21708;stroke-miterlimit:4;stroke-dasharray:none">
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0.632354px;word-spacing:0px;fill:url(#linearGradient1293);fill-opacity:1;stroke:none;stroke-width:1.21708;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(1.2305084,0,0,1.2305084,-7.7252052,-9.2892833)">
       <g
          id="g1233"
          style="opacity:1;fill:url(#linearGradient1299);fill-opacity:1">
